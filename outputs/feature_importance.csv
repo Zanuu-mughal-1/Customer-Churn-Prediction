@@ -1,0 +1,11 @@
+,importance
+num__MonthlyCharges,0.38247565332811
+num__TenureMonths,0.29542597620020317
+num__SupportTickets,0.10427651652863892
+cat__Contract_Month-to-month,0.058003502098999564
+num__AutoPay,0.05006868199092957
+cat__InternetService_Fiber,0.038346054554869065
+cat__InternetService_DSL,0.023398579929270604
+cat__Contract_Two year,0.01884204983198573
+cat__Contract_One year,0.01804975401947563
+cat__InternetService_nan,0.011113231517517806
